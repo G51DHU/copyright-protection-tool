@@ -18,10 +18,6 @@ We're excited that you're interested in contributing to the Copyright Protection
 
 The Copyright Protection Tool is designed to index and monitor content across various web platforms to identify potential copyright infringements. The project is built with extensibility in mind, allowing for easy addition of new indexers for different websites.
 
-### Current Status
-
-[Provide a brief overview of the project's current state, major features, and any ongoing work.]
-
 ### Future Plans
 
 1. Please see `english_public_trackers.json` for a list of trackers that this project aims to incorporate.

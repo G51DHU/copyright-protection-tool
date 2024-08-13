@@ -1,0 +1,11 @@
+aiohttp==3.8.5
+asyncio==3.4.3
+lxml==4.9.3
+orjson==3.9.5
+requests==2.31.0
+
+# For development and testing
+pytest==7.4.2
+mypy==1.5.1
+flake8==6.1.0
+black==23.9.1
