@@ -1,0 +1,235 @@
+{
+    "YTS": {
+        "url": "https://yts.mx/",
+        "content": "HD movies of small size"
+    },
+    "1337x": {
+        "url": "https://1337x.to/",
+        "content": "Verified torrent downloads for movies, TV, games, music, software"
+    },
+    "Badass Torrents": {
+        "url": "https://badasstorrents.com/",
+        "content": "Movies, TV, general content"
+    },
+    "EXT Torrents": {
+        "url": "https://ext.to/",
+        "content": "Movies, TV, general content"
+    },
+    "ExtraTorrent.st": {
+        "url": "https://extratorrent.st/",
+        "content": "Movies, TV, general content (magnet links)"
+    },
+    "GloDLS": {
+        "url": "https://glodls.to/",
+        "content": "Movies, TV, general content"
+    },
+    "Internet Archive": {
+        "url": "https://archive.org/",
+        "content": "Books, movies, music, archived web pages"
+    },
+    "Isohunt2": {
+        "url": "https://isohunt.nz/",
+        "content": "Movies, TV, general content"
+    },
+    "KickassTorrents": {
+        "url": "https://kickasstorrents.to/",
+        "content": "TV, movies, general content"
+    },
+    "The Pirate Bay": {
+        "url": "https://thepiratebay.org/",
+        "content": "General content (movies, TV, music, software, etc.)"
+    },
+    "Postman": {
+        "url": "http://tracker2.postman.i2p/",
+        "content": "Movies, TV, general content (I2P network)"
+    },
+    "TheRARBG": {
+        "url": "https://therarbg.to/",
+        "content": "TV, movies, general content"
+    },
+    "Torlock": {
+        "url": "https://www.torlock.com/",
+        "content": "Verified torrents for TV series and movies"
+    },
+    "Anidex": {
+        "url": "https://anidex.info/",
+        "content": "Anime torrents from English fansub groups"
+    },
+    "Anime Time": {
+        "url": "https://animetime.cc/",
+        "content": "Anime torrents"
+    },
+    "AniRena": {
+        "url": "https://www.anirena.com/",
+        "content": "Anime and Japanese-related torrents"
+    },
+    "AniSource": {
+        "url": "https://asnet.pw/",
+        "content": "HD Anime raws"
+    },
+
+    "BitSearch": {
+        "url": "https://bitsearch.to/",
+        "content": "Torrent meta-search engine"
+    },
+    "BT.etree": {
+        "url": "https://bt.etree.org/",
+        "content": "Bootleg FLAC music"
+    },
+    "BTMET": {
+        "url": "https://btmet.com/",
+        "content": "Public magnet indexer"
+    },
+    "BTSOW": {
+        "url": "https://btsow.motorcycles/",
+        "content": "Public torrent indexer"
+    },
+    "CrackingPatching": {
+        "url": "https://crackingpatching.com/",
+        "content": "Software and apps"
+    },
+    "E-Hentai": {
+        "url": "https://e-hentai.org/",
+        "content": "Hentai doujinshi, manga"
+    },
+    "EBookBay": {
+        "url": "http://ebb.la/",
+        "content": "E-books"
+    },
+    "EZTV": {
+        "url": "https://eztvx.to/",
+        "content": "TV shows"
+    },
+    "iDope": {
+        "url": "https://idope.se/",
+        "content": "Torrent search engine with direct magnet links"
+    },
+    "Knaben": {
+        "url": "https://knaben.eu/",
+        "content": "Torrent meta-search engine"
+    },
+    "LePorno.info": {
+        "url": "https://leporno.info/",
+        "content": "Adult content"
+    },
+    "LimeTorrents": {
+        "url": "https://www.limetorrents.lol/",
+        "content": "General torrent index with mostly verified torrents"
+    },
+    "LinuxTracker": {
+        "url": "https://linuxtracker.org/",
+        "content": "Linux ISO torrents"
+    },
+    "Mac Torrents Download": {
+        "url": "https://www.torrentmac.net/",
+        "content": "Mac software"
+    },
+    "MixtapeTorrent": {
+        "url": "http://www.mixtapetorrent.com/",
+        "content": "Music mixtapes"
+    },
+    "MyPornClub": {
+        "url": "https://myporn.club/",
+        "content": "Adult content"
+    },
+    "Nipponsei": {
+        "url": "https://nipponsei.minglong.org/",
+        "content": "Fresh music from Japan"
+    },
+    "Nyaa.si": {
+        "url": "https://nyaa.si/",
+        "content": "Asian media including anime, manga, literature, and music"
+    },
+    "OneJAV": {
+        "url": "https://onejav.com/",
+        "content": "Asian adult content (JAV)"
+    },
+    "Shana Project": {
+        "url": "https://www.shanaproject.com/",
+        "content": "Anime torrents"
+    },
+    "showRSS": {
+        "url": "https://showrss.info/",
+        "content": "TV shows"
+    },
+    "Solid Torrents": {
+        "url": "https://solidtorrents.to/",
+        "content": "Torrent meta-search engine"
+    },
+    "SubsPlease": {
+        "url": "https://subsplease.org/",
+        "content": "Anime torrents"
+    },
+    "sukebei.nyaa.si": {
+        "url": "https://sukebei.nyaa.si/",
+        "content": "Adult Asian media including anime, manga, games and JAV"
+    },
+    "Tokyo Toshokan": {
+        "url": "https://www.tokyotosho.info/",
+        "content": "Japanese media"
+    },
+    "Torrent Downloads": {
+        "url": "https://www.torrentdownloads.pro/",
+        "content": "General content"
+    },
+    "Torrent[CORE]": {
+        "url": "https://torrentcore.xyz/",
+        "content": "DHT Crawler"
+    },
+    "TorrentDownload": {
+        "url": "https://www.torrentdownload.info/",
+        "content": "Torrent meta-search engine"
+    },
+    "TorrentFunk": {
+        "url": "https://www.torrentfunk.com/",
+        "content": "Public torrent index"
+    },
+    "TorrentKitty": {
+        "url": "https://www.torrentkitty.tv/",
+        "content": "Public torrent indexer"
+    },
+    "TorrentProject2": {
+        "url": "https://torrentproject2.net/",
+        "content": "Torrent meta-search engine"
+    },
+    "TorrentsCSV": {
+        "url": "https://torrents-csv.com/",
+        "content": "Self-hostable open source torrent search engine and database"
+    },
+    "Torrentz2nz": {
+        "url": "https://torrentz2.nz/",
+        "content": "Torrent meta-search engine"
+    },
+    "VST Torrentz": {
+        "url": "https://vsttorrentz.net/",
+        "content": "Audio apps, plugins and samples"
+    },
+    "VSTorrent": {
+        "url": "https://vstorrent.org/",
+        "content": "Audio apps, plugins and samples"
+    },
+    "XXXClub": {
+        "url": "https://xxxclub.to/",
+        "content": "Adult content"
+    },
+    "YourBittorrent": {
+        "url": "https://yourbittorrent.com/",
+        "content": "Public torrent index"
+    },
+    "JAV-Torrent": {
+        "url": "https://jav-torrent.org/",
+        "content": "Asian adult content (JAV)"
+    },
+    "PornoTorrent": {
+        "url": "https://www.pornotorrent.eu/",
+        "content": "Adult content"
+    },
+    "Sexy-Pics": {
+        "url": "https://www.sexy-pics.us/",
+        "content": "Adult content (MP4)"
+    },
+    "Torrent RSS Feed": {
+        "url": "N/A",
+        "content": "Generic RSS Feed containing torrents"
+    }
+}

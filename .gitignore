@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+ENV/
+
+# Logs
+logs/*
+*.log
+
+# Output
+output/*
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Configuration files that might contain sensitive information
+config/config.json
+
+# Temporary files
+*.tmp
+
+# Database files
+*.db
+*.sqlite3

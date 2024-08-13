@@ -1,0 +1,18 @@
+{
+    "1337x": {
+        "base_url": "https://www.1377x.to/movie-library/",
+        "script_settings":{
+            "max_retries": 5
+        }
+    },
+    "YTS": {
+        "base_url": "https://yts.mx/api/v2/list_movies.json",
+        "script_settings":{
+            "flaresolverr": false,
+            "max_retries": 5,
+            "worker_count": 50,
+            "page_limit": 50,
+            "chunk_size": 1000
+        }
+    }
+}
