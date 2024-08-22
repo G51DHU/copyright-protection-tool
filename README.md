@@ -4,6 +4,8 @@
 
 The Copyright Protection Tool is a system designed to index and monitor content across various web platforms to identify potential copyright infringements. It employs web scraping techniques to gather data from multiple sources, process it, and store the results for further analysis.
 
+Please note this is a the short README.md if you wish to see a more detailed README, and more information regaring the scope and workflows, please refer to documentation within the `"/docs"` folder.
+
 ## Project Goals
 
 1. Scan popular torrenting sites
