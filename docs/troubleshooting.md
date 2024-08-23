@@ -1,18 +1,15 @@
 # Troubleshooting Guide for Copyright Protection Tool
 
-This document provides solutions to common issues you may encounter while using the Copyright Protection Tool. If you're experiencing a problem not covered here, please check the project's issue tracker or reach out to the community for support.
-
 ## Table of Contents
 
-1. [General Issues](#general-issues)
-2. [Configuration Issues](#configuration-issues)
-3. [Indexer-Specific Issues](#indexer-specific-issues)
-4. [FlareSolverr Issues](#flaresolverr-issues)
-5. [Performance Issues](#performance-issues)
-6. [Output and Logging Issues](#output-and-logging-issues)
-7. [Debugging Tips](#debugging-tips)
+1. [Common Issues](#common-issues)
+2. [Indexer-Specific Issues](#indexer-specific-issues)
+3. [FlareSolverr Issues](#flaresolverr-issues)
+4. [Performance Issues](#performance-issues)
+5. [Output and Logging Issues](#output-and-logging-issues)
+6. [Debugging Tips](#debugging-tips)
 
-## General Issues
+## Common Issues
 
 ### The tool doesn't start
 
@@ -29,12 +26,11 @@ This document provides solutions to common issues you may encounter while using 
 **Symptom**: You see an error like `ModuleNotFoundError: No module named 'some_module'`
 
 **Solution**: Install the missing module using pip:
+```bash
+    pip install some_modules
 ```
-pip install some_module
-```
-If the module should be part of the project's dependencies, make sure you've run `pip install -r requirements.txt`.
 
-## Configuration Issues
+If the module should be part of the project's dependencies, make sure you've run `pip install -r requirements.txt`.
 
 ### ConfigurationError: "Invalid JSON in config file"
 
@@ -92,8 +88,7 @@ If the module should be part of the project's dependencies, make sure you've run
 
 **Solutions**:
 1. Check FlareSolverr logs for any specific error messages.
-2. Ensure you're using a compatible version of FlareSolverr.
-3. Try restarting the FlareSolverr container.
+2. Try restarting the FlareSolverr container.
 
 ## Performance Issues
 
@@ -138,10 +133,10 @@ If the module should be part of the project's dependencies, make sure you've run
 
 ## Debugging Tips
 
-1. **Increase logging verbosity**: Set `debug_level` to 4 in `config.json` for maximum logging detail.
-2. **Check log files**: Review the log files in your specified logging directory for detailed error messages and execution flow.
-3. **Use a debugger**: For Python-savvy users, use a debugger like pdb or an IDE's debugging tools to step through the code.
-4. **Isolate the problem**: If possible, try to reproduce the issue with a single indexer or a smaller dataset.
-5. **Check for updates**: Ensure you're using the latest version of the Copyright Protection Tool and all its dependencies.
+1. Increase logging verbosity: Set `debug_level` to 4 in `config.json` for maximum logging detail.
+2. Check log files: Review the log files in your specified logging directory for detailed error messages and execution flow.
+3. Use a debugger: For Python-savvy users, use a debugger like pdb or an IDE's debugging tools to step through the code.
+4. Isolate the problem: If possible, try to reproduce the issue with a single indexer or a smaller dataset.
+5. Check for updates: Ensure you're using the latest version of the Copyright Protection Tool and all its dependencies.
 
 Remember, if you encounter a persistent issue that you can't resolve, don't hesitate to open an issue on the project's GitHub page with a detailed description of the problem and steps to reproduce it.
